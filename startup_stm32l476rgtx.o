@@ -1,0 +1,11 @@
+C:/Users/Magee/Downloads/Update5_12.1/TemperatureReadingFanV2/CMSIS/Include/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static,ignoring_inline_asm
+../Src/main.c:36:6:FPU_Enable	4	static
+../Src/main.c:42:6:configure_PB6	4	static
+../Src/main.c:56:6:configure_PB10	4	static
+../Src/main.c:74:6:TIM2_CH3_Init	4	static
+../Src/main.c:103:6:TIM4_CH1_Init	8	static
+../Src/main.c:157:6:TIM4_IRQHandler	4	static
+../Src/main.c:179:6:init_hardware	4	static
+../Src/main.c:188:6:SystemClock_Config	4	static
+../Src/main.c:206:6:delay_ms	24	static
+../Src/main.c:220:5:main	8	static

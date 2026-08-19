@@ -1,0 +1,14 @@
+../Src/DHT22.c:53:6:DWT_Delay_Init	4	static
+../Src/DHT22.c:70:6:delay_us	24	static
+../Src/DHT22.c:99:13:DHT_SetPinOutput	4	static
+../Src/DHT22.c:119:6:DHT_SetPinInput	4	static
+../Src/DHT22.c:129:13:DHT_PinLow	4	static
+../Src/DHT22.c:135:13:DHT_PinHigh	4	static
+../Src/DHT22.c:141:16:DHT_ReadPin	4	static
+../Src/DHT22.c:156:13:DHT_Start	8	static
+../Src/DHT22.c:174:16:wait_for_pin	16	static
+../Src/DHT22.c:192:13:delay_ms_simple	24	static
+../Src/DHT22.c:200:16:DHT_Check_Response	8	static
+../Src/DHT22.c:228:16:DHT_Read	16	static
+../Src/DHT22.c:257:13:draw_bar	32	static
+../Src/DHT22.c:294:6:DHT_Display	32	static

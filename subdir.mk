@@ -1,0 +1,15 @@
+Src/LCD.o: ../Src/LCD.c \
+ C:/Users/Magee/Downloads/Update5_12.1/TemperatureReadingFanV2/CMSIS/Device/ST/STM32L4xx/Include/stm32l476xx.h \
+ C:/Users/Magee/Downloads/Update5_12.1/TemperatureReadingFanV2/CMSIS/Include/core_cm4.h \
+ C:/Users/Magee/Downloads/Update5_12.1/TemperatureReadingFanV2/CMSIS/Include/cmsis_version.h \
+ C:/Users/Magee/Downloads/Update5_12.1/TemperatureReadingFanV2/CMSIS/Include/cmsis_compiler.h \
+ C:/Users/Magee/Downloads/Update5_12.1/TemperatureReadingFanV2/CMSIS/Include/cmsis_gcc.h \
+ C:/Users/Magee/Downloads/Update5_12.1/TemperatureReadingFanV2/CMSIS/Include/mpu_armv7.h \
+ C:/Users/Magee/Downloads/Update5_12.1/TemperatureReadingFanV2/CMSIS/Device/ST/STM32L4xx/Include/system_stm32l4xx.h
+C:/Users/Magee/Downloads/Update5_12.1/TemperatureReadingFanV2/CMSIS/Device/ST/STM32L4xx/Include/stm32l476xx.h:
+C:/Users/Magee/Downloads/Update5_12.1/TemperatureReadingFanV2/CMSIS/Include/core_cm4.h:
+C:/Users/Magee/Downloads/Update5_12.1/TemperatureReadingFanV2/CMSIS/Include/cmsis_version.h:
+C:/Users/Magee/Downloads/Update5_12.1/TemperatureReadingFanV2/CMSIS/Include/cmsis_compiler.h:
+C:/Users/Magee/Downloads/Update5_12.1/TemperatureReadingFanV2/CMSIS/Include/cmsis_gcc.h:
+C:/Users/Magee/Downloads/Update5_12.1/TemperatureReadingFanV2/CMSIS/Include/mpu_armv7.h:
+C:/Users/Magee/Downloads/Update5_12.1/TemperatureReadingFanV2/CMSIS/Device/ST/STM32L4xx/Include/system_stm32l4xx.h:

@@ -1,0 +1,12 @@
+../Src/LCD.c:50:13:LCD_Delay	16	static
+../Src/LCD.c:55:13:LCD_Delay_ms	24	static
+../Src/LCD.c:68:13:LCD_GPIO_Init	4	static
+../Src/LCD.c:114:13:LCD_Write_Pin	16	static
+../Src/LCD.c:132:13:LCD_Enable_Pulse	8	static
+../Src/LCD.c:145:13:LCD_Send_4Bits	16	static
+../Src/LCD.c:161:13:LCD_Send_Command	16	static
+../Src/LCD.c:177:13:LCD_Send_Data	16	static
+../Src/LCD.c:192:6:LCD_Init	8	static
+../Src/LCD.c:233:6:lcd_clear	8	static
+../Src/LCD.c:248:6:lcd_put_cur	24	static
+../Src/LCD.c:269:6:lcd_send_string	16	static
